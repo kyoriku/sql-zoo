@@ -1,3 +1,5 @@
+-- https://sqlzoo.net/wiki/WHERE_filters
+
 -- 1. The population of 'France'. Strings should be in 'single quotes';
 SELECT population FROM bbc
   WHERE name = 'France'
