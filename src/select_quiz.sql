@@ -1,3 +1,5 @@
+-- https://sqlzoo.net/wiki/SELECT_Quiz
+
 -- 1. Select the code which produces this table
 -- name	population
 -- Bahrain	1234571
