@@ -1,1 +1,34 @@
-# sql-zoo
+# SQL Zoo
+*SQL Query Exercises from SQLZoo*
+
+## Overview
+This repository contains a collection of SQL query exercises from [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial), a free online platform for learning SQL. These exercises cover a variety of SQL concepts, including filtering records, using aggregate functions, joining tables, and more. The exercises are designed to help strengthen SQL skills and deepen understanding of SQL syntax and querying techniques.
+
+## Contents
+Each file in this repository covers specific SQL concepts and exercises:
+
+## Getting Started
+
+### Prerequisites
+To run these SQL queries, you need access to a SQL-compatible database. You can use platforms like [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice or set up a local database using [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), or any other relational database management system (RDBMS).
+
+### Usage
+Clone this repository to your local machine using the following command:
+```bash
+    git clone https://github.com/kyoriku/sql-zoo.git
+```
+
+To run the queries, open the `.sql` files with your preferred SQL editor or integrated development environment (IDE) like [MySQL Workbench](https://www.mysql.com/products/workbench/) or [DBeaver](https://dbeaver.io/), and execute the queries against a database.
+
+## Learning Goals
+
+## Acknowledgments
+The exercises in this repository are based on the interactive tutorials from [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial). This platform provides a great way to practice SQL in a hands-on manner and is an excellent resource for SQL learners at all levels.
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license - see the LICENSE file for details.
+
+## Questions
+If you have any questions, feel free to reach out at devkyoriku@gmail.com.
