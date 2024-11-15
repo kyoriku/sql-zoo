@@ -14,6 +14,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 5. **select_from_world.sql**: Queries using the `world` table to practice basic `SELECT` statements and filtering records by attributes like population, area, and GDP.
 6. **bbc_quiz.sql**: A set of exercises from the BBC Quiz on SQLZoo, focusing on querying data from the `world` table, including filters, conditional logic, and correcting SQL syntax errors.
 7. **select_from_nobel.sql**: A series of exercises querying the `nobel` table, focusing on selecting data based on year, subject, winner, and applying various SQL conditions like `IN`, `LIKE`, and `ORDER BY`.
+8. **nobel_quiz.sql**: Practice questions focused on querying the `nobel` table, including pattern matching with `LIKE`, counting results with `COUNT`, and using subqueries to filter data based on specific award criteria.
 
 ## Getting Started
 
