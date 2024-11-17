@@ -16,11 +16,12 @@ Each file in this repository covers specific SQL concepts and exercises:
 7. **select_from_nobel.sql**: A series of exercises querying the `nobel` table, focusing on selecting data based on year, subject, winner, and applying various SQL conditions like `IN`, `LIKE`, and `ORDER BY`.
 8. **nobel_quiz.sql**: Practice questions focused on querying the `nobel` table, including pattern matching with `LIKE`, counting results with `COUNT`, and using subqueries to filter data based on specific award criteria.
 9. **nested_select.sql**: Examples and exercises demonstrating nested `SELECT` queries (subqueries), including using single-value subqueries, working with multiple results using `IN`, and comparing values using `ALL` operator.
+10. **subquery_select.sql**: Examples demonstrating different types of `SELECT` subqueries, including derived tables in `FROM` clause, subqueries with `IN,` and correlated subqueries for comparing values within regions.
 
 ## Getting Started
 
 ### Prerequisites
-To run these SQL queries, you need access to a SQL-compatible database. Note that this repository does not include any databases, so you will need to set one up yourself. You can use platforms like [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice or set up a local database using [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), or any other relational database management system (RDBMS).
+To run these SQL queries, you need access to a SQL-compatible database. **Note that this repository does not include any databases, so you will need to set one up yourself.** You can use platforms like [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice or set up a local database using [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), or any other relational database management system (RDBMS).
 
 ### Usage
 Clone this repository to your local machine using the following command:
