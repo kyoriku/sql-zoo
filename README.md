@@ -17,6 +17,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 8. **nobel_quiz.sql**: Practice questions focused on querying the `nobel` table, including pattern matching with `LIKE`, counting results with `COUNT`, and using subqueries to filter data based on specific award criteria.
 9. **nested_select.sql**: Examples and exercises demonstrating nested `SELECT` queries (subqueries), including using single-value subqueries, working with multiple results using `IN`, and comparing values using `ALL` operator.
 10. **subquery_select.sql**: Examples demonstrating different types of `SELECT` subqueries, including derived tables in `FROM` clause, subqueries with `IN,` and correlated subqueries for comparing values within regions.
+11. **select_in_select.sql**: Advanced exercises on nested `SELECT` queries using the `world` table, covering comparisons with subqueries, correlated subqueries, and the `ALL` operator for finding population and GDP relationships between countries.
 
 ## Getting Started
 
