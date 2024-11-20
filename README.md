@@ -19,6 +19,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 10. **subquery_select.sql**: Examples demonstrating different types of `SELECT` subqueries, including derived tables in `FROM` clause, subqueries with `IN,` and correlated subqueries for comparing values within regions.
 11. **select_in_select.sql**: Advanced exercises on nested `SELECT` queries using the `world` table, covering comparisons with subqueries, correlated subqueries, and the `ALL` operator for finding population and GDP relationships between countries.
 12. **nested_select_quiz.sql**: Practice questions on nested `SELECT` queries using the BBC database, focusing on comparing regional data, population statistics, and GDP values using subqueries and the `ALL` operator.
+13. **aggregate_queries.sql**: Introduction to SQL aggregate functions (`SUM`, `COUNT`, `MAX`, `AVG`), using `DISTINCT` to remove duplicates, and `ORDER BY` for sorting results using the BBC database.
 
 ## Getting Started
 
