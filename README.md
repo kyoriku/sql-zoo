@@ -21,6 +21,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 12. **nested_select_quiz.sql**: Practice questions on nested `SELECT` queries using the BBC database, focusing on comparing regional data, population statistics, and GDP values using subqueries and the `ALL` operator.
 13. **aggregate_queries.sql**: Introduction to SQL aggregate functions (`SUM`, `COUNT`, `MAX`, `AVG`), using `DISTINCT` to remove duplicates, and `ORDER BY` for sorting results using the BBC database.
 14. **group_queries.sql**: Examples of using `GROUP BY` clause to aggregate data by groups, and `HAVING` clause to filter grouped results, demonstrated with population statistics from the world table.
+15. **sum_count.sql**: Practical exercises using aggregate functions `SUM` and `COUNT`, combined with `GROUP BY` and `HAVING` clauses to analyze world population and continental statistics from the world table.
 
 ## Getting Started
 
