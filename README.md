@@ -11,18 +11,19 @@ Each file in this repository covers specific SQL concepts and exercises:
 2. **where_filters.sql**: Exercises focused on filtering records using various SQL conditions like `IN`, `BETWEEN`, and `LIKE`.
 3. **select_names.sql**: Querying exercises involving string pattern matching using `LIKE` for selecting country names based on specific patterns and conditions.
 4. **select_quiz.sql**: A series of quiz-like exercises designed to test and reinforce understanding of basic SQL queries and result predictions.
-5. **select_from_world.sql**: Queries using the `world` table to practice basic `SELECT` statements and filtering records by attributes like population, area, and GDP.
-6. **bbc_quiz.sql**: A set of exercises from the BBC Quiz on SQLZoo, focusing on querying data from the `world` table, including filters, conditional logic, and correcting SQL syntax errors.
-7. **select_from_nobel.sql**: A series of exercises querying the `nobel` table, focusing on selecting data based on year, subject, winner, and applying various SQL conditions like `IN`, `LIKE`, and `ORDER BY`.
-8. **nobel_quiz.sql**: Practice questions focused on querying the `nobel` table, including pattern matching with `LIKE`, counting results with `COUNT`, and using subqueries to filter data based on specific award criteria.
+5. **select_from_world.sql**: Queries using the world table to practice basic `SELECT` statements and filtering records by attributes like population, area, and GDP.
+6. **bbc_quiz.sql**: A set of exercises from the BBC Quiz on SQLZoo, focusing on querying data from the world table, including filters, conditional logic, and correcting SQL syntax errors.
+7. **select_from_nobel.sql**: A series of exercises querying the nobel table, focusing on selecting data based on year, subject, winner, and applying various SQL conditions like `IN`, `LIKE`, and `ORDER BY`.
+8. **nobel_quiz.sql**: Practice questions focused on querying the nobel table, including pattern matching with `LIKE`, counting results with `COUNT`, and using subqueries to filter data based on specific award criteria.
 9. **nested_select.sql**: Examples and exercises demonstrating nested `SELECT` queries (subqueries), including using single-value subqueries, working with multiple results using `IN`, and comparing values using `ALL` operator.
 10. **subquery_select.sql**: Examples demonstrating different types of `SELECT` subqueries, including derived tables in `FROM` clause, subqueries with `IN,` and correlated subqueries for comparing values within regions.
-11. **select_in_select.sql**: Advanced exercises on nested `SELECT` queries using the `world` table, covering comparisons with subqueries, correlated subqueries, and the `ALL` operator for finding population and GDP relationships between countries.
+11. **select_in_select.sql**: Advanced exercises on nested `SELECT` queries using the world table, covering comparisons with subqueries, correlated subqueries, and the `ALL` operator for finding population and GDP relationships between countries.
 12. **nested_select_quiz.sql**: Practice questions on nested `SELECT` queries using the BBC database, focusing on comparing regional data, population statistics, and GDP values using subqueries and the `ALL` operator.
 13. **aggregate_queries.sql**: Introduction to SQL aggregate functions (`SUM`, `COUNT`, `MAX`, `AVG`), using `DISTINCT` to remove duplicates, and `ORDER BY` for sorting results using the BBC database.
 14. **group_queries.sql**: Examples of using `GROUP BY` clause to aggregate data by groups, and `HAVING` clause to filter grouped results, demonstrated with population statistics from the world table.
 15. **sum_count.sql**: Practical exercises using aggregate functions `SUM` and `COUNT`, combined with `GROUP BY` and `HAVING` clauses to analyze world population and continental statistics from the world table.
 16. **distinct_aggregates.sql**: Examples demonstrating the use of `COUNT` with `DISTINCT` keyword to count unique values, illustrated using the nobel prize database to analyze award distributions.
+17. **nobel_sum_count.sql**: Comprehensive exercises using aggregate functions (`COUNT`, `SUM`, `MIN`) and `GROUP BY` with the nobel prize database to analyze prize distributions, multiple winners, and award patterns across years and subjects.
 
 ## Getting Started
 
