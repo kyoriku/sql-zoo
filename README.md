@@ -25,6 +25,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 16. **distinct_aggregates.sql**: Examples demonstrating the use of `COUNT` with `DISTINCT` keyword to count unique values, illustrated using the nobel prize database to analyze award distributions.
 17. **nobel_sum_count.sql**: Comprehensive exercises using aggregate functions (`COUNT`, `SUM`, `MIN`) and `GROUP BY` with the nobel prize database to analyze prize distributions, multiple winners, and award patterns across years and subjects.
 18. **sum_count_quiz.sql**: Practice questions testing understanding of SQL aggregate functions (`SUM`, `COUNT`, `AVG`, `MAX`), `GROUP BY` usage, and population density calculations using the BBC database.
+19. **select_join.sql**: Introduction to SQL `JOIN` operations, demonstrating how to combine data from multiple related tables using common fields, illustrated with games and city tables.
 
 ## Getting Started
 
