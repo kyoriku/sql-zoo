@@ -28,6 +28,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 19. **select_join.sql**: Introduction to SQL `JOIN` operations, demonstrating how to combine data from multiple related tables using common fields, illustrated with games and city tables.
 20. **select_left_join.sql**: Introduction to `LEFT JOIN` operations, demonstrating how to retrieve all records from the left table and matching records from the right table, illustrated using games and city tables for handling null cases.
 21. **music_joins.sql**: Practice exercises combining `JOIN` operations with aggregate functions using a music database, demonstrating relationships between albums and tracks, including counting songs, filtering by title, and calculating price per track.
+22. **joins.sql**: Complex `JOIN` exercises using UEFA EURO 2012 database, combining multiple tables (game, goal, and eteam) to analyze matches, goals, and team statistics, including aggregation and `CASE WHEN` statements.
 
 ## Getting Started
 
