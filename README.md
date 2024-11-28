@@ -30,6 +30,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 21. **music_joins.sql**: Practice exercises combining `JOIN` operations with aggregate functions using a music database, demonstrating relationships between albums and tracks, including counting songs, filtering by title, and calculating price per track.
 22. **joins.sql**: Complex `JOIN` exercises using UEFA EURO 2012 database, combining multiple tables (game, goal, and eteam) to analyze matches, goals, and team statistics, including aggregation and `CASE WHEN` statements.
 23. **old_joins.sql**: Practice `JOIN` operations using Olympic table tennis data, combining competition tables (teams, winners, games) to analyze medal winners, countries, and tournament results across different events.
+24. **join_quiz.sql**: Practice questions testing understanding of SQL `JOIN` operations, including selecting correct `JOIN` conditions, identifying valid column names, and analyzing football match statistics.
 
 ## Getting Started
 
