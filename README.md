@@ -31,6 +31,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 22. **joins.sql**: Complex `JOIN` exercises using UEFA EURO 2012 database, combining multiple tables (game, goal, and eteam) to analyze matches, goals, and team statistics, including aggregation and `CASE WHEN` statements.
 23. **old_joins.sql**: Practice `JOIN` operations using Olympic table tennis data, combining competition tables (teams, winners, games) to analyze medal winners, countries, and tournament results across different events.
 24. **join_quiz.sql**: Practice questions testing understanding of SQL `JOIN` operations, including selecting correct `JOIN` conditions, identifying valid column names, and analyzing football match statistics.
+25. **more_joins.sql**: Advanced `JOIN` operations using a movie database, combining actor, movie, and casting tables to analyze film appearances, starring roles, and actor collaborations.
 
 ## Getting Started
 
