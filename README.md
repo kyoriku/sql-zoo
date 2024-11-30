@@ -32,6 +32,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 23. **old_joins.sql**: Practice `JOIN` operations using Olympic table tennis data, combining competition tables (teams, winners, games) to analyze medal winners, countries, and tournament results across different events.
 24. **join_quiz.sql**: Practice questions testing understanding of SQL `JOIN` operations, including selecting correct `JOIN` conditions, identifying valid column names, and analyzing football match statistics.
 25. **more_joins.sql**: Advanced `JOIN` operations using a movie database, combining actor, movie, and casting tables to analyze film appearances, starring roles, and actor collaborations.
+26. **movie_joins.sql**: Fundamental explanation of `JOIN` operations using a movie database, demonstrating how to combine two and three tables using common fields and handle non-unique field names.
 
 ## Getting Started
 
