@@ -33,6 +33,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 24. **join_quiz.sql**: Practice questions testing understanding of SQL `JOIN` operations, including selecting correct `JOIN` conditions, identifying valid column names, and analyzing football match statistics.
 25. **more_joins.sql**: Advanced `JOIN` operations using a movie database, combining actor, movie, and casting tables to analyze film appearances, starring roles, and actor collaborations.
 26. **movie_joins.sql**: Fundamental explanation of `JOIN` operations using a movie database, demonstrating how to combine two and three tables using common fields and handle non-unique field names.
+27. **join_quiz_2.sql**: Additional practice questions on SQL `JOIN`s, focusing on multi-table joins, sorting results, and analysis of movie database relationships between actors, directors, and films.
 
 ## Getting Started
 
