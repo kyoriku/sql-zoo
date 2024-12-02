@@ -34,6 +34,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 25. **more_joins.sql**: Advanced `JOIN` operations using a movie database, combining actor, movie, and casting tables to analyze film appearances, starring roles, and actor collaborations.
 26. **movie_joins.sql**: Fundamental explanation of `JOIN` operations using a movie database, demonstrating how to combine two and three tables using common fields and handle non-unique field names.
 27. **join_quiz_2.sql**: Additional practice questions on SQL `JOIN`s, focusing on multi-table joins, sorting results, and analysis of movie database relationships between actors, directors, and films.
+28. **null_values.sql**: Example demonstrating how to handle NULL values in SQL queries using IS NULL operator, illustrated with parliament party data.
 
 ## Getting Started
 
