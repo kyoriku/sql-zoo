@@ -36,6 +36,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 27. **join_quiz_2.sql**: Additional practice questions on SQL `JOIN`s, focusing on multi-table joins, sorting results, and analysis of movie database relationships between actors, directors, and films.
 28. **null_values.sql**: Example demonstrating how to handle NULL values in SQL queries using `IS NULL` operator, illustrated with parliament party data.
 29. **using_coalesce.sql**: Example demonstrating use of the `COALESCE` function to handle NULL values by returning the first non-NULL value from a list of expressions.
+30. **using_case.sql**: Example demonstrating use of the `CASE` statement to return different values based on specified conditions, illustrated with population size categorization.
 
 ## Getting Started
 
