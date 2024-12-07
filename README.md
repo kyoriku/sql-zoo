@@ -39,6 +39,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 30. **using_case.sql**: Example demonstrating use of the `CASE` statement to return different values based on specified conditions, illustrated with population size categorization.
 31. **using_null.sql**: Comprehensive exercises on handling NULL values in SQL, combining `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` with `COALESCE` and `CASE` statements using a school database of teachers and departments.
 32. **null_quiz.sql**: Practice questions on handling NULL values in SQL, testing understanding of outer joins, `COALESCE `function, and `CASE` statements using a teacher and department database.
+33. **self_join.sql**: Complex exercises using self `JOIN` operations to analyze bus routes and stops, including finding connections between stops, transfer points, and multiple route options using Edinburgh bus data.
 
 ## Getting Started
 
