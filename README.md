@@ -40,6 +40,7 @@ Each file in this repository covers specific SQL concepts and exercises:
 31. **using_null.sql**: Comprehensive exercises on handling NULL values in SQL, combining `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` with `COALESCE` and `CASE` statements using a school database of teachers and departments.
 32. **null_quiz.sql**: Practice questions on handling NULL values in SQL, testing understanding of outer joins, `COALESCE `function, and `CASE` statements using a teacher and department database.
 33. **self_join.sql**: Complex exercises using self `JOIN` operations to analyze bus routes and stops, including finding connections between stops, transfer points, and multiple route options using Edinburgh bus data.
+34. **using_self_join.sql**: Explanation of self `JOIN` concepts with examples using Edinburgh bus routes, demonstrating how to join a table with itself using different matching conditions.
 
 ## Getting Started
 
