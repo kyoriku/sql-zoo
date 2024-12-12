@@ -4,38 +4,6 @@
 ## Overview
 This repository contains a collection of SQL query exercises from [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial), a free online platform for learning SQL. These exercises cover a variety of SQL concepts, including filtering records, using aggregate functions, joining tables, and more. The exercises are designed to help strengthen SQL skills and solidify knowledge of SQL syntax and querying techniques.
 
-## Learning Goals
-These exercises helped me build hands-on experience in the following areas:
-
-- Basic SQL Operations:
-  - Writing SQL queries using `SELECT` statements to retrieve specific data from tables
-  - Utilizing `WHERE` clauses to filter records based on conditions and comparisons
-  - Applying pattern matching with `LIKE` and filtering with `IN`, `BETWEEN` operators
-  - Using `ORDER BY` for sorting and `DISTINCT` to remove duplicates
-
-- Aggregate Functions and Grouping:
-  - Using aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`) for data analysis
-  - Grouping data with `GROUP BY` and filtering groups with `HAVING` clauses
-  - Combining aggregate functions with joins for complex data analysis
-
-- JOIN Operations:
-  - Understanding different types of joins: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`
-  - Combining multiple tables using common fields
-  - Working with self joins to analyze hierarchical or self-referential data
-  - Using joins with aggregate functions for comprehensive data analysis
-
-- Advanced SQL Concepts:
-  - Creating and using subqueries in `SELECT`, `FROM`, and `WHERE` clauses
-  - Handling NULL values using `IS NULL`, `COALESCE`, and outer joins
-  - Using `CASE` statements for conditional logic in queries
-  - Writing correlated subqueries for row-by-row processing
-
-- Problem-Solving Skills:
-  - Breaking down complex queries into manageable steps
-  - Choosing appropriate SQL operations for different data analysis needs
-  - Understanding and optimizing query performance
-  - Reinforcing SQL knowledge through practical exercises and quizzes
-
 ## Contents
 Each file in this repository covers specific SQL concepts and exercises. The files are listed in the recommended order of completion, following SQLZoo's tutorial structure. Each .sql file begins with a link to its corresponding SQLZoo tutorial section.
 
@@ -86,10 +54,13 @@ Each file in this repository covers specific SQL concepts and exercises. The fil
 31. **using_null.sql**: Comprehensive exercises on handling NULL values in SQL, combining `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` with `COALESCE` and `CASE` statements using a school database of teachers and departments.
 32. **null_quiz.sql**: Practice questions on handling NULL values in SQL, testing understanding of outer joins, `COALESCE` function, and `CASE` statements using a teacher and department database.
 
+### Advanced SQL Functions and Analysis
+33. **numeric_examples.sql**: Complex calculations and aggregate functions using student survey data, including percentage calculations and grouped statistics.
+
 ### Self JOIN Operations
-33. **self_join.sql**: Complex exercises using self `JOIN` operations to analyze bus routes and stops, including finding connections between stops, transfer points, and multiple route options using Edinburgh bus data.
-34. **using_self_join.sql**: Explanation of self `JOIN` concepts with examples using Edinburgh bus routes, demonstrating how to join a table with itself using different matching conditions.
-35. **self_join_quiz.sql**: Practice questions testing understanding of self `JOIN` operations, focusing on analyzing bus route connections and services using the Edinburgh transport database.
+36. **using_self_join.sql**: Explanation of self `JOIN` concepts with examples using Edinburgh bus routes, demonstrating how to join a table with itself using different matching conditions.
+37. **self_join.sql**: Complex exercises using self `JOIN` operations to analyze bus routes and stops, including finding connections between stops, transfer points, and multiple route options using Edinburgh bus data.
+38. **self_join_quiz.sql**: Practice questions testing understanding of self `JOIN` operations, focusing on analyzing bus route connections and services using the Edinburgh transport database.
 
 ## Getting Started
 ### Prerequisites
@@ -107,6 +78,38 @@ You can also clone this repository to review the solutions locally:
 ```bash
 git clone https://github.com/kyoriku/sql-zoo.git
 ```
+
+## Learning Goals
+These exercises helped me build hands-on experience in the following areas:
+
+- Basic SQL Operations:
+  - Writing SQL queries using `SELECT` statements to retrieve specific data from tables
+  - Utilizing `WHERE` clauses to filter records based on conditions and comparisons
+  - Applying pattern matching with `LIKE` and filtering with `IN`, `BETWEEN` operators
+  - Using `ORDER BY` for sorting and `DISTINCT` to remove duplicates
+
+- Aggregate Functions and Grouping:
+  - Using aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`) for data analysis
+  - Grouping data with `GROUP BY` and filtering groups with `HAVING` clauses
+  - Combining aggregate functions with joins for complex data analysis
+
+- JOIN Operations:
+  - Understanding different types of joins: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`
+  - Combining multiple tables using common fields
+  - Working with self joins to analyze hierarchical or self-referential data
+  - Using joins with aggregate functions for comprehensive data analysis
+
+- Advanced SQL Concepts:
+  - Creating and using subqueries in `SELECT`, `FROM`, and `WHERE` clauses
+  - Handling NULL values using `IS NULL`, `COALESCE`, and outer joins
+  - Using `CASE` statements for conditional logic in queries
+  - Writing correlated subqueries for row-by-row processing
+
+- Problem-Solving Skills:
+  - Breaking down complex queries into manageable steps
+  - Choosing appropriate SQL operations for different data analysis needs
+  - Understanding and optimizing query performance
+  - Reinforcing SQL knowledge through practical exercises and quizzes
 
 ## Acknowledgments
 The exercises in this repository are based on the interactive tutorials from [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial). This platform provides a great way to practice SQL in a hands-on manner and is an excellent resource for SQL learners at all levels.
