@@ -56,6 +56,7 @@ Each file in this repository covers specific SQL concepts and exercises. The fil
 
 ### Advanced SQL Functions and Analysis
 33. **numeric_examples.sql**: Complex calculations and aggregate functions using student survey data, including percentage calculations and grouped statistics.
+34. **window_functions.sql**: Introduction to window functions using election data, demonstrating `RANK()` and `PARTITION BY` for analyzing voting patterns.
 
 ### Self JOIN Operations
 36. **using_self_join.sql**: Explanation of self `JOIN` concepts with examples using Edinburgh bus routes, demonstrating how to join a table with itself using different matching conditions.
